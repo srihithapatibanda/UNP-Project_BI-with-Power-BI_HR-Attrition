@@ -10,3 +10,4 @@ HR Analytics: Gain actionable insights into employee turnover rates, reasons for
 
 pbix file link - https://drive.google.com/file/d/1uuObLYmJI8oJ3gdEMJQ3bldRZi-WgFob/view?usp=sharing
 pdf file link - https://drive.google.com/file/d/1GwVu-dAu0rl_aZN97bMnhcuXUDWWQZkz/view?usp=sharing
+ppt canva link - https://docs.google.com/presentation/d/1G00jUf1dcIyfO2fgdpdPC1uk0FES8hZN/edit?usp=sharing&ouid=103899541394926288245&rtpof=true&sd=true
